@@ -1,9 +1,9 @@
 ﻿// Diretório: Repositories/Interfaces/ICursoRepository.cs
-using RPA.Models;
+using ProjetoBusca.Models;
 using System.Collections.Generic;
 using System.Threading.Tasks;
 
-namespace RPA.Repositories.Interfaces
+namespace ProjetoBusca.Repositories.Interfaces
 {
     public interface ICursoRepository
     {

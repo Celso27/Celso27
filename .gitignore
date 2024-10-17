@@ -3,4 +3,7 @@ obj/
 /packages/
 riderModule.iml
 /_ReSharper.Caches/
-RPA.db 
+BancoDados.db
+BancoDados.db-shm
+BancoDados.db-wal
+
